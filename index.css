@@ -107,6 +107,7 @@ p {
 
 .summary-container {
   width: 100%;
+  font-size: 18px;
 }
 
 .summary-block {
@@ -234,6 +235,15 @@ p {
     font-size: 1.5rem;
   }
 
+}
+
+
+.bold {
+  font-weight: 700;
+}
+
+.left-pad {
+  padding-left: 10px;
 }
 
 /* --- Color's --- */
